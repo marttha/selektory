@@ -4,6 +4,6 @@ p{
 h1,h3{
     background-color: brown;
 }
-h3:hover{
-    background-color: darkblue;
+#ex1{
+    background-color: forestgreen;
 }
